@@ -1,0 +1,47 @@
+[
+  {
+    "nome": "Dom Casmurro",
+    "autor": "Machado de Assis",
+    "sinopse": "Romance que explora a memória e a dúvida do narrador sobre a fidelidade de sua esposa."
+  },
+  {
+    "nome": "O Alquimista",
+    "autor": "Paulo Coelho",
+    "sinopse": "Jornada de um jovem pastor em busca de seu sonho e do verdadeiro significado da vida."
+  },
+  {
+    "nome": "1984",
+    "autor": "George Orwell",
+    "sinopse": "Distopia que retrata uma sociedade totalitária sob vigilância constante do Grande Irmão."
+  },
+  {
+    "nome": "O Pequeno Príncipe",
+    "autor": "Antoine de Saint-Exupéry",
+    "sinopse": "Uma fábula poética sobre amizade, amor e a essência da vida, vista pelos olhos de uma criança."
+  },
+  {
+    "nome": "Memórias Póstumas de Brás Cubas",
+    "autor": "Machado de Assis",
+    "sinopse": "Narrativa do defunto Brás Cubas, que conta sua vida de forma irônica e inovadora."
+  },
+  {
+    "nome": "Cem Anos de Solidão",
+    "autor": "Gabriel García Márquez",
+    "sinopse": "Saga da família Buendía na mítica cidade de Macondo, misturando realismo e fantasia."
+  },
+  {
+    "nome": "A Revolução dos Bichos",
+    "autor": "George Orwell",
+    "sinopse": "Uma sátira política em forma de fábula sobre uma fazenda tomada por animais revolucionários."
+  },
+  {
+    "nome": "Capitães da Areia",
+    "autor": "Jorge Amado",
+    "sinopse": "Relato sobre um grupo de meninos de rua em Salvador e suas lutas por sobrevivência e liberdade."
+  },
+  {
+    "nome": "Grande Sertão: Veredas",
+    "autor": "João Guimarães Rosa",
+    "sinopse": "Um épico sertanejo narrado por Riobaldo, que mistura filosofia, guerra e amor no sertão brasileiro."
+  }
+]
